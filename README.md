@@ -14,17 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-GitHub Readme Stats
-
-GitHub Readme Stats
-Get dynamically generated GitHub stats on your readmes!
-
-Tests Passing  Issues GitHub pull requests
-
- 
-
-View Demo · Report Bug · Request Feature
-
-Français · 简体中文 · Español · Deutsch · 日本語 · Português Brasileiro · Italiano · 한국어 . Nederlands . नेपाली . Türkçe
-
-Love the project? Please consider donating to help it improve!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjdndn)](https://github.com/anuraghazra/github-readme-stats)
